@@ -285,8 +285,9 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.98);
-    box-shadow: 0 2px 2px #efefef;
+    height:10%;
+    background-color: #fff;
+    box-shadow: 0 3px 5px #8D6E63;
     z-index: 9999;
 }
 
